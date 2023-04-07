@@ -1,0 +1,453 @@
+2023-04-06 21:53:41,176 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-06 21:53:41,188 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-06 21:53:41,653 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-06 21:53:41,752 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-06 21:53:58,701 - nopCommere -INFO - **************Adding new customer *********
+ 2023-04-06 21:53:58,701 - nopCommere -INFO - **************Providing customer detail*********
+ 2023-04-06 21:54:05,079 - nopCommere -INFO - **************Saving custuomer data*********
+ 2023-04-06 21:54:07,946 - nopCommere -INFO - **************closing browser*********
+ 2023-04-06 21:54:10,415 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-06 21:54:10,416 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-06 21:54:11,333 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-06 21:54:11,427 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-06 21:54:20,630 - nopCommere -INFO - **************Serching cutomer by ID*********
+ 2023-04-06 21:54:23,744 - nopCommere -INFO - **************closing browser*********
+ 2023-04-06 21:54:26,208 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-06 21:54:26,208 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-06 21:54:26,676 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-06 21:54:26,771 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-06 21:54:36,017 - nopCommere -INFO - **************Serching cutomer by name*********
+ 2023-04-06 21:54:39,188 - nopCommere -INFO - **************closing browser*********
+ 2023-04-06 21:54:41,618 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-06 21:54:41,619 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-06 21:54:42,520 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-06 21:54:42,613 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-06 21:54:43,752 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-06 21:54:46,772 - nopCommere -INFO - **************Click on logout link*********
+ 2023-04-06 21:54:50,565 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-06 21:54:53,569 - nopCommere -INFO - **************closing browser*********
+ 2023-04-06 21:54:56,017 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-06 21:54:56,017 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-06 21:54:56,951 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-06 21:54:57,041 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-06 21:54:59,164 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-06 21:55:02,180 - nopCommere -INFO - **************Click on logout link*********
+ 2023-04-06 21:55:05,993 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-06 21:55:09,007 - nopCommere -INFO - **************closing browser*********
+ 2023-04-06 21:55:11,491 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-06 21:55:11,492 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-06 21:55:12,412 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-06 21:55:12,505 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-06 21:55:12,865 - nopCommere -INFO - **************Logginf passed*********
+ 2023-04-06 22:21:26,522 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-06 22:21:26,535 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-06 22:21:27,484 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-06 22:21:27,581 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-06 22:21:43,115 - nopCommere -INFO - **************Adding new customer *********
+ 2023-04-06 22:21:43,115 - nopCommere -INFO - **************Providing customer detail*********
+ 2023-04-06 22:21:49,497 - nopCommere -INFO - **************Saving custuomer data*********
+ 2023-04-06 22:21:52,387 - nopCommere -INFO - **************closing browser*********
+ 2023-04-06 22:21:54,823 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-06 22:21:54,824 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-06 22:21:55,308 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-06 22:21:55,402 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-06 22:22:04,066 - nopCommere -INFO - **************Serching cutomer by ID*********
+ 2023-04-06 22:22:07,184 - nopCommere -INFO - **************closing browser*********
+ 2023-04-06 22:22:09,584 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-06 22:22:09,585 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-06 22:22:10,053 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-06 22:22:10,148 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-06 22:22:18,117 - nopCommere -INFO - **************Serching cutomer by name*********
+ 2023-04-06 22:22:21,276 - nopCommere -INFO - **************closing browser*********
+ 2023-04-06 22:22:23,694 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-06 22:22:23,695 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-06 22:22:24,172 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-06 22:22:24,264 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-06 22:22:26,407 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-06 22:22:29,417 - nopCommere -INFO - **************Click on logout link*********
+ 2023-04-06 22:22:33,425 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-06 22:22:36,430 - nopCommere -INFO - **************closing browser*********
+ 2023-04-06 22:22:38,841 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-06 22:22:38,841 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-06 22:22:39,841 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-06 22:22:39,931 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-06 22:22:42,036 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-06 22:22:45,040 - nopCommere -INFO - **************Click on logout link*********
+ 2023-04-06 22:22:48,865 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-06 22:22:51,879 - nopCommere -INFO - **************closing browser*********
+ 2023-04-06 22:22:54,333 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-06 22:22:54,333 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-06 22:22:55,251 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-06 22:22:55,340 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-06 22:22:56,137 - nopCommere -INFO - **************Logginf passed*********
+ 2023-04-07 00:04:31,528 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 00:04:31,543 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 00:04:32,491 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 00:04:32,594 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 00:04:48,035 - nopCommere -INFO - **************Adding new customer *********
+ 2023-04-07 00:04:48,035 - nopCommere -INFO - **************Providing customer detail*********
+ 2023-04-07 00:04:54,419 - nopCommere -INFO - **************Saving custuomer data*********
+ 2023-04-07 00:04:57,351 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 00:04:58,107 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 00:04:58,110 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 00:04:59,039 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 00:04:59,133 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 00:05:07,851 - nopCommere -INFO - **************Serching cutomer by ID*********
+ 2023-04-07 00:05:10,966 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 00:05:11,723 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 00:05:11,724 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 00:05:12,627 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 00:05:12,720 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 00:05:21,476 - nopCommere -INFO - **************Serching cutomer by name*********
+ 2023-04-07 00:05:24,642 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 00:06:29,330 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 00:06:29,345 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 00:06:30,792 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 00:06:30,862 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 00:06:44,475 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 00:06:44,477 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 00:06:45,424 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 00:06:45,469 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 00:06:53,401 - nopCommere -INFO - **************Serching cutomer by ID*********
+ 2023-04-07 00:06:57,186 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 00:06:59,280 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 00:06:59,281 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 00:07:00,240 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 00:07:00,282 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 00:07:09,274 - nopCommere -INFO - **************Serching cutomer by name*********
+ 2023-04-07 00:07:13,084 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 00:09:35,496 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 00:09:35,509 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 00:09:36,741 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 00:09:36,844 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 00:09:53,315 - nopCommere -INFO - **************Adding new customer *********
+ 2023-04-07 00:09:53,315 - nopCommere -INFO - **************Providing customer detail*********
+ 2023-04-07 00:09:59,683 - nopCommere -INFO - **************Saving custuomer data*********
+ 2023-04-07 00:10:02,615 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 00:10:03,369 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 00:10:03,373 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 00:10:04,329 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 00:10:04,423 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 00:10:12,367 - nopCommere -INFO - **************Serching cutomer by ID*********
+ 2023-04-07 00:10:15,477 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 00:10:16,220 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 00:10:16,221 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 00:10:17,127 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 00:10:17,220 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 00:10:25,964 - nopCommere -INFO - **************Serching cutomer by name*********
+ 2023-04-07 00:10:29,128 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 00:11:32,181 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 00:11:32,192 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 00:11:33,591 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 00:11:33,636 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 00:11:46,750 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 00:11:46,752 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 00:11:47,723 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 00:11:47,765 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 00:11:56,557 - nopCommere -INFO - **************Serching cutomer by ID*********
+ 2023-04-07 00:12:00,355 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 00:12:02,113 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 00:12:02,114 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 00:12:02,922 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 00:12:02,963 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 00:12:10,382 - nopCommere -INFO - **************Serching cutomer by name*********
+ 2023-04-07 10:00:39,212 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 10:00:39,229 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 10:00:40,690 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 10:00:40,746 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 10:00:55,168 - nopCommere -INFO - **************Adding new customer *********
+ 2023-04-07 10:00:55,168 - nopCommere -INFO - **************Providing customer detail*********
+ 2023-04-07 10:01:02,830 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 10:01:02,830 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 10:01:04,238 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 10:01:04,279 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 10:01:12,211 - nopCommere -INFO - **************Serching cutomer by ID*********
+ 2023-04-07 10:01:16,019 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 10:01:17,857 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 10:01:17,858 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 10:01:19,288 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 10:01:19,328 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 10:01:26,823 - nopCommere -INFO - **************Serching cutomer by name*********
+ 2023-04-07 10:01:30,642 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 10:01:39,300 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 10:01:39,314 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 10:01:40,723 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 10:01:40,769 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 10:01:53,836 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 10:01:53,838 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 10:01:55,237 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 10:01:55,279 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 10:02:02,744 - nopCommere -INFO - **************Serching cutomer by ID*********
+ 2023-04-07 10:02:06,532 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 10:02:08,341 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 10:02:08,342 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 10:02:09,304 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 10:02:09,344 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 10:02:18,779 - nopCommere -INFO - **************Serching cutomer by name*********
+ 2023-04-07 10:02:22,588 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 10:03:08,341 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 10:03:08,353 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 10:03:09,275 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 10:03:09,375 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 10:03:25,615 - nopCommere -INFO - **************Adding new customer *********
+ 2023-04-07 10:03:25,615 - nopCommere -INFO - **************Providing customer detail*********
+ 2023-04-07 10:03:32,004 - nopCommere -INFO - **************Saving custuomer data*********
+ 2023-04-07 10:03:34,937 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 10:03:35,676 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 10:03:35,679 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 10:03:36,573 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 10:03:36,664 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 10:03:44,574 - nopCommere -INFO - **************Serching cutomer by ID*********
+ 2023-04-07 10:03:47,696 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 10:03:48,441 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 10:03:48,441 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 10:03:48,905 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 10:03:48,994 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 10:03:57,771 - nopCommere -INFO - **************Serching cutomer by name*********
+ 2023-04-07 10:04:00,927 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 19:45:44,901 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 19:45:44,914 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 19:45:45,898 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 19:45:46,008 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 19:46:01,475 - nopCommere -INFO - **************Adding new customer *********
+ 2023-04-07 19:46:01,475 - nopCommere -INFO - **************Providing customer detail*********
+ 2023-04-07 19:46:07,865 - nopCommere -INFO - **************Saving custuomer data*********
+ 2023-04-07 19:46:10,771 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 19:46:11,532 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 19:46:11,536 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 19:46:12,042 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 19:46:12,135 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 19:46:20,834 - nopCommere -INFO - **************Serching cutomer by ID*********
+ 2023-04-07 19:46:23,969 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 19:46:24,742 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 19:46:24,743 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 19:46:25,285 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 19:46:25,378 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 19:46:34,249 - nopCommere -INFO - **************Serching cutomer by name*********
+ 2023-04-07 19:46:37,417 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 19:57:27,899 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 19:57:27,913 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 19:57:28,858 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 19:57:28,959 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 19:57:44,501 - nopCommere -INFO - **************Adding new customer *********
+ 2023-04-07 19:57:44,501 - nopCommere -INFO - **************Providing customer detail*********
+ 2023-04-07 19:57:50,885 - nopCommere -INFO - **************Saving custuomer data*********
+ 2023-04-07 19:57:53,826 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 19:57:54,587 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 19:57:54,590 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 19:57:55,115 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 19:57:55,211 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 19:57:57,709 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-07 19:58:00,714 - nopCommere -INFO - **************Click on logout link*********
+ 2023-04-07 19:58:04,511 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-07 19:58:07,520 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 20:02:47,501 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 20:02:47,514 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 20:23:08,368 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 20:23:08,382 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 20:23:09,340 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 20:23:09,443 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 20:23:24,792 - nopCommere -INFO - **************Adding new customer *********
+ 2023-04-07 20:23:24,792 - nopCommere -INFO - **************Providing customer detail*********
+ 2023-04-07 20:23:31,165 - nopCommere -INFO - **************Saving custuomer data*********
+ 2023-04-07 20:23:34,027 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 20:23:34,790 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 20:23:34,792 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 20:23:35,751 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 20:23:35,847 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 20:23:37,416 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-07 20:23:40,423 - nopCommere -INFO - **************Click on logout link*********
+ 2023-04-07 20:23:44,229 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-07 20:23:47,244 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 20:53:37,326 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 20:53:37,339 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 20:53:38,299 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 20:53:38,402 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 20:53:54,267 - nopCommere -INFO - **************Adding new customer *********
+ 2023-04-07 20:53:54,267 - nopCommere -INFO - **************Providing customer detail*********
+ 2023-04-07 20:54:00,649 - nopCommere -INFO - **************Saving custuomer data*********
+ 2023-04-07 20:54:03,505 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 20:55:29,690 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 20:55:29,706 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 20:55:31,780 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 20:55:31,876 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 20:58:17,028 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 20:58:17,044 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 20:58:17,976 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 20:58:18,087 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 20:58:40,399 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 20:58:40,412 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 20:58:41,232 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 20:58:41,329 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 21:14:43,334 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 21:14:43,349 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 21:14:44,262 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 21:14:44,363 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 21:17:58,818 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 21:17:58,831 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 21:17:59,777 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 21:17:59,874 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 21:18:15,236 - nopCommere -INFO - **************Adding new customer *********
+ 2023-04-07 21:18:15,236 - nopCommere -INFO - **************Providing customer detail*********
+ 2023-04-07 21:18:21,615 - nopCommere -INFO - **************Saving custuomer data*********
+ 2023-04-07 21:18:24,537 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 21:18:25,295 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 21:18:25,297 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 21:18:26,246 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 21:18:26,339 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 21:18:35,247 - nopCommere -INFO - **************Serching cutomer by ID*********
+ 2023-04-07 21:18:38,370 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 21:18:39,114 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 21:18:39,115 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 21:18:40,083 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 21:18:40,175 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 21:18:48,885 - nopCommere -INFO - **************Serching cutomer by name*********
+ 2023-04-07 21:18:52,052 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 21:18:52,806 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 21:18:52,807 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 21:18:53,725 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 21:18:53,820 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 21:18:56,075 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-07 21:18:59,093 - nopCommere -INFO - **************Click on logout link*********
+ 2023-04-07 21:19:02,940 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-07 21:19:05,943 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 21:19:06,689 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 21:19:06,690 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 21:19:07,607 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 21:19:07,700 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 21:19:10,143 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-07 21:19:13,151 - nopCommere -INFO - **************Click on logout link*********
+ 2023-04-07 21:19:16,947 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-07 21:19:19,950 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 21:19:20,677 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 21:19:20,678 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 21:19:21,599 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 21:19:21,694 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 21:19:22,031 - nopCommere -INFO - **************Logginf passed*********
+ 2023-04-07 21:48:46,950 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 21:48:46,963 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 21:48:48,220 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 21:48:48,317 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 21:49:03,713 - nopCommere -INFO - **************Adding new customer *********
+ 2023-04-07 21:49:03,713 - nopCommere -INFO - **************Providing customer detail*********
+ 2023-04-07 21:49:10,090 - nopCommere -INFO - **************Saving custuomer data*********
+ 2023-04-07 21:49:13,057 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 21:49:15,469 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 21:49:15,472 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 21:49:16,415 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 21:49:16,511 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 21:49:25,279 - nopCommere -INFO - **************Serching cutomer by ID*********
+ 2023-04-07 21:49:28,413 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 21:49:30,837 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 21:49:30,838 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 21:49:31,320 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 21:49:31,415 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 21:49:40,264 - nopCommere -INFO - **************Serching cutomer by name*********
+ 2023-04-07 21:49:43,419 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 21:49:45,851 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 21:49:45,851 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 21:49:46,316 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 21:49:46,410 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 21:49:47,679 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-07 21:49:50,692 - nopCommere -INFO - **************Click on logout link*********
+ 2023-04-07 21:49:54,467 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-07 21:49:57,478 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 21:49:59,874 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 21:49:59,875 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 21:50:00,791 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 21:50:00,887 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 21:50:02,584 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-07 21:50:05,590 - nopCommere -INFO - **************Click on logout link*********
+ 2023-04-07 21:50:09,418 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-07 21:50:12,434 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 21:50:14,851 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 21:50:14,852 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 21:50:15,319 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 21:50:15,415 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 21:50:16,199 - nopCommere -INFO - **************Logginf passed*********
+ 2023-04-07 21:53:24,812 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 21:53:24,825 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 21:53:25,747 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 21:53:25,845 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 21:53:41,314 - nopCommere -INFO - **************Adding new customer *********
+ 2023-04-07 21:53:41,315 - nopCommere -INFO - **************Providing customer detail*********
+ 2023-04-07 21:53:47,700 - nopCommere -INFO - **************Saving custuomer data*********
+ 2023-04-07 21:53:50,582 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 21:53:53,062 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 21:53:53,064 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 21:53:54,001 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 21:53:54,097 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 21:54:02,789 - nopCommere -INFO - **************Serching cutomer by ID*********
+ 2023-04-07 21:54:05,914 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 21:54:08,431 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 21:54:08,432 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 21:54:09,350 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 21:54:09,443 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 21:54:17,909 - nopCommere -INFO - **************Serching cutomer by name*********
+ 2023-04-07 21:54:21,085 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 21:54:23,602 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 21:54:23,602 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 21:54:24,100 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 21:54:24,192 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 21:54:25,918 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-07 21:54:28,929 - nopCommere -INFO - **************Click on logout link*********
+ 2023-04-07 21:54:32,784 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-07 21:54:35,801 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 21:54:38,304 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 21:54:38,304 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 21:54:39,240 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 21:54:39,332 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 21:54:40,559 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-07 21:54:43,563 - nopCommere -INFO - **************Click on logout link*********
+ 2023-04-07 21:54:47,433 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-07 21:54:50,436 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 21:54:52,892 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 21:54:52,893 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 21:54:53,374 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 21:54:53,468 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 21:54:53,836 - nopCommere -INFO - **************Logginf passed*********
+ 2023-04-07 21:55:33,144 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 21:55:33,157 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 21:55:34,109 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 21:55:34,209 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 21:55:49,225 - nopCommere -INFO - **************Adding new customer *********
+ 2023-04-07 21:55:49,225 - nopCommere -INFO - **************Providing customer detail*********
+ 2023-04-07 21:55:55,611 - nopCommere -INFO - **************Saving custuomer data*********
+ 2023-04-07 21:55:58,509 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 21:56:01,030 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 21:56:01,032 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 21:56:01,981 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 21:56:02,077 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 21:56:04,130 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-07 21:56:07,145 - nopCommere -INFO - **************Click on logout link*********
+ 2023-04-07 21:56:11,055 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-07 21:56:14,067 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 23:51:58,838 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 23:51:58,853 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 23:51:59,804 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 23:51:59,909 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 23:57:24,062 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 23:57:24,082 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 23:57:25,040 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 23:57:25,153 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 23:57:48,132 - nopCommere -INFO - **************Adding new customer *********
+ 2023-04-07 23:57:48,132 - nopCommere -INFO - **************Providing customer detail*********
+ 2023-04-07 23:57:54,531 - nopCommere -INFO - **************Saving custuomer data*********
+ 2023-04-07 23:57:57,512 - nopCommere -INFO - **************closing browser*********
+ 2023-04-07 23:58:00,042 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-07 23:58:00,045 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-07 23:58:00,952 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-07 23:58:01,048 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-07 23:58:03,027 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-07 23:58:06,043 - nopCommere -INFO - **************Click on logout link*********
+ 2023-04-07 23:58:09,822 - nopCommere -INFO - **************Logging failed*********
+ 2023-04-07 23:58:12,843 - nopCommere -INFO - **************closing browser*********
+ 2023-04-08 00:57:13,124 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-08 00:57:13,136 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-08 00:57:14,048 - nopCommere -INFO - **************Providing login details*********
+ 2023-04-08 00:57:14,146 - nopCommere -INFO - **************Started Loging*********
+ 2023-04-08 01:03:06,298 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-08 01:03:06,312 - nopCommere -INFO - **************Openning URL*********
+ 2023-04-08 01:05:47,208 - nopCommere -INFO - **************Lunching URL*********
+ 2023-04-08 01:05:47,224 - nopCommere -INFO - **************Openning URL*********
+ 
